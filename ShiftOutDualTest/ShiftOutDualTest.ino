@@ -1,3 +1,5 @@
+/*Using a dual 4-bit SR as an 8-bit SR */
+
 int clock = 10; //CLOCK A Pin
 int data = 12; //DATA A Pin
 int reset = 11; //RESET A Pin

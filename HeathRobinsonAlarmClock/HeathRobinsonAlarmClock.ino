@@ -1,3 +1,6 @@
+/* Testing my multiplex display
+displays % of nights sleep remaining, when 0 sets of buzzer */
+
 #include <Multiplex7Seg.h>
 
 byte digitPins[] = {0, 1, 2, 3}; // LSB to MSB

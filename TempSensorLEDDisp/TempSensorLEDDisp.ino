@@ -1,3 +1,5 @@
+/* Thermistor based temperature sensor with multiplexed display readout */
+
 #include <Multiplex7Seg.h>
 
 byte digitPins[] = { 3, 2}; // LSB to MSB

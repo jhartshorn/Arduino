@@ -1,3 +1,5 @@
+/* Traffic light simulator - 2 synchronised sets of lights */
+
 int green1 = 11; //remember resistor!
 int amber1 = 12;
 int red1 = 13;

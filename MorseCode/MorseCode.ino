@@ -1,3 +1,5 @@
+/* Creates morse code on buzzer based on serial input */
+
 const int inLength = 250;
 const int inTerminator = 13;
 char inString[inLength+1];

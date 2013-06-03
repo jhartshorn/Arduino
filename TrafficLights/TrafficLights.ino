@@ -1,3 +1,5 @@
+/* Traffic light simulator */
+
 int green = 13;
 int amber = 12;
 int red = 11;

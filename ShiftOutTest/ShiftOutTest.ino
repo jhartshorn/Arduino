@@ -1,3 +1,5 @@
+/*Trying out my SR to display patterns on an LED block */
+
 int clock = 10;
 int data = 12;
 int reset = 11;

@@ -1,3 +1,5 @@
+/*Thermistor based temp sensor with 3 LED indicator */f
+
 int green = 13;
 int orange = 12;
 int red = 11;
