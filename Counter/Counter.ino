@@ -1,4 +1,6 @@
-int a = 7;
+//7 Segment Digital Display Counter
+
+int a = 7; //define pins for 7S display
 int b = 6;
 int c = 5;
 int d = 4;
@@ -15,7 +17,7 @@ void setup()
   for (int i = 1; i < 8; i++)
   {
     pinMode(i, OUTPUT);
-    digitalWrite(i, HIGH);
+    digitalWrite(i, HIGH);  //using common cathode device, so HIGH turns sink off
     pinMode(pb, INPUT);
     digitalWrite(pb, HIGH);
     
