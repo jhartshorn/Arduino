@@ -5,17 +5,17 @@ Here are a few projects I've been working on. All are released under the GPL3 li
 
 Projects
 --------
-* BounceTest	Visualisation of switch bounce
-* Counter	7 Segment	LED test
-* HeathRobinsonAlarmClock	Multiplex LED test
-* LCDTimer	LCD display test
-* MorseCode	Serial in to morse code
-* ShiftOutDualTest	Patterns on LED block using to sides of a dual 4-bit SR as an 8-bit SR
-* ShiftOutTest	Patterns on LED block using shift register
-* TempSensor	Thermistor temp sensor with 3 LED display
-* TempSensorLEDDisp	Thermistor temp sensor with 7 segment LED display
-* TrafficLights	Traffic light simulator
-* TrafficLights2	Dual synchronised traffic light simulator
+* *BounceTest*	Visualisation of switch bounce
+* *Counter*	7 Segment	LED test
+* *HeathRobinsonAlarmClock*	Multiplex LED test
+* *LCDTimer*	LCD display test
+* *MorseCode*	Serial in to morse code
+* *ShiftOutDualTest*	Patterns on LED block using to sides of a dual 4-bit SR as an 8-bit SR
+* *ShiftOutTest*	Patterns on LED block using shift register
+* *TempSensor*	Thermistor temp sensor with 3 LED display
+* *TempSensorLEDDisp*	Thermistor temp sensor with 7 segment LED display
+* *TrafficLights*	Traffic light simulator
+* *TrafficLights2*	Dual synchronised traffic light simulator
 
 
 GNU GENERAL PUBLIC LICENSE
